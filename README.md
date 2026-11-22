@@ -9,7 +9,9 @@ pip install -r requirements.txt
 python prepare_data.py path/to/hotel_bookings.csv   # cleans the raw data
 streamlit run app.py
 ```
+## Live demo
 
+[Open the dashboard](https://hotel-booking-insights.streamlit.app)
 ## What it shows
 
 - Headline KPIs: bookings, cancellation rate, average daily rate, estimated revenue from stays
